@@ -1,2 +1,2 @@
 # rustMagicGame
-First attempt at a game making and world-building
+Attempt at game making and world-building
